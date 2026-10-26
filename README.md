@@ -6,7 +6,7 @@ Setup scripts and notes for the Windows PCs that run the golf simulators at Golf
 |---|---|---|---|
 | [`Bolton/`](Bolton/) | 1-6 (all identical) | SimLock + TrackMan | `sim-pc-bolton.ps1` |
 | [`Brampton/`](Brampton/) | 1-4 | Uneekor + SimLock | `sim-pc-brampton-uneekor.ps1` |
-| [`Brampton/`](Brampton/) | 5-8 | TrackMan | `setup-trackman.ps1` |
+| [`Brampton/`](Brampton/) | 5-8 | SimLock + TrackMan | `sim-pc-brampton-trackman.ps1` |
 
 Each folder has its own README with the setup steps for that location.
 
